@@ -3,7 +3,8 @@ Welcome to **Production-Grade DevOps Challenges**, a real-world knowledge base f
 
 This repository is a structured collection of high-impact **challenges, incidents, architecture designs, crisis responses, and technical case studies** I’ve handled across **enterprise, cloud-native, and academic-scale platforms**. All content here is rooted in **real scenarios**, not simulations.
 
-## 🧠 What You'll Find Here
+## 🧠 What You'll Find Here in [Real-world challenges](./Real%20Challenges%20That%20Drove%20My%20Promotions.md) :
+
 - 🔥 **100+ Real DevOps Scenarios** — Critical incidents, outages, cost spikes, security breaches, misconfigurations, migrations, performance issues, and more.
 - 📊 **Root Cause + Resolution** — How I diagnosed, fixed, and prevented problems across CI/CD, Infrastructure, Cloud, Kubernetes, and Security.
 - 🛠️ **Tool-Specific Fixes** — Jenkins, Terraform, GitHub Actions, Helm, Prometheus, Grafana, Azure DevOps, Kubernetes, and more.
